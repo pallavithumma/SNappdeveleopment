@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log_service" max_length="40" name="x_366625_pallavi_log_service" sizeclass="2" type="collection">
+        <element label="name" max_length="40" name="name" type="longint"/>
+        <element label="phone" max_length="78" name="phone" type="string"/>
+        <element label="request date" max_length="40" name="request_date" type="glide_date_time"/>
+        <element label="return date" max_length="40" name="return_date" type="glide_date_time"/>
+        <element function_definition="for it" function_field="true" label="sell" max_length="8000" name="sell" read_only="true" type="script"/>
+        <element label="set" max_length="45" name="set" type="longint"/>
+    </element>
+</database>

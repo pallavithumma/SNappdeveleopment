@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log-nill" max_length="40" name="x_366625_pallavi_log_nill" sizeclass="1" type="collection">
+        <element choice="1" label="contact type3" max_length="40" name="contact_type3" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="email" value="email"/>
+                <element inactive_on_update="false" label="phone" value="phone"/>
+            </choice>
+        </element>
+        <element default="45" label="ring" max_length="1000" name="ring" type="string"/>
+    </element>
+</database>

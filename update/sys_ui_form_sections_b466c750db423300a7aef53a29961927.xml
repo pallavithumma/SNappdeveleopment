@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b466c750db423300a7aef53a29961927" sys_domain="global" table="x_366625_pallavi_log_service" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:58:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4966c750db423300a7aef53a29961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366625_pallavi_log_service" name="x_366625_pallavi_log_service" sys_domain="global" view="def0471cdb023300a7aef53a29961918">b466c750db423300a7aef53a29961927</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_366625_pallavi_log_service" sys_domain="global" view="def0471cdb023300a7aef53a29961918">2335cb10db423300a7aef53a299619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:58:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:00:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2d64f50db423300a7aef53a299619be</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366625_pallavi_log_service" name="x_366625_pallavi_log_service" sys_domain="global" view="def0471cdb023300a7aef53a29961918">b466c750db423300a7aef53a29961927</sys_ui_form>
+            <sys_ui_section caption="desc" display_value="desc" name="x_366625_pallavi_log_service" sys_domain="global" view="def0471cdb023300a7aef53a29961918">2ad64f50db423300a7aef53a299619bb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:00:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:58:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09660b50db423300a7aef53a2996192f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366625_pallavi_log_service" name="x_366625_pallavi_log_service" sys_domain="global" view="def0471cdb023300a7aef53a29961918">b466c750db423300a7aef53a29961927</sys_ui_form>
+            <sys_ui_section caption="admin" display_value="admin" name="x_366625_pallavi_log_service" sys_domain="global" view="def0471cdb023300a7aef53a29961918">7866c750db423300a7aef53a29961926</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:00:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_366625_pallavi_log_service</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:58:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b466c750db423300a7aef53a29961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366625_pallavi_log_service</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="pallavi" source="x_366625_pallavi">f851835cdb023300a7aef53a299619f4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="pallavi">f851835cdb023300a7aef53a299619f4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b466c750db423300a7aef53a29961927</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:58:08</sys_updated_on>
+            <sys_user/>
+            <view display_value="users" name="users">def0471cdb023300a7aef53a29961918</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="log incident backup" max_length="40" name="x_366625_pallavi_log_incident_backup" type="collection">
+        <element choice="1" label="contact type3" max_length="40" name="contact_type3" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="email" value="email"/>
+                <element inactive_on_update="false" label="phone" value="phone"/>
+            </choice>
+        </element>
+        <element label="short description" max_length="40" name="short_description" type="string"/>
+    </element>
+</database>
